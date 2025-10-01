@@ -127,10 +127,5 @@ Special thanks to the data community for providing access to real-world datasets
 ---
 
 ## Dashboard Preview
-*(Add a screenshot of your Power BI dashboard below for visual context.)*  
-
-```markdown
-![Uber Dashboard Screenshot](images/uber_dashboard.png)
-
 
 <img width="1512" height="982" alt="dashboard" src="https://github.com/user-attachments/assets/83c9c1f0-7b90-45b0-ad82-f36ab812069b" />
