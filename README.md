@@ -111,6 +111,36 @@ The interactive dashboard allows stakeholders to explore data dynamically and ma
 
 ---
 
+## Dashboard Preview
+
+<img width="1512" height="982" alt="dashboard" src="https://github.com/user-attachments/assets/83c9c1f0-7b90-45b0-ad82-f36ab812069b" />
+
+
+---
+
+## Recommendations
+
+Based on the analysis, the following recommendations are proposed to improve Uber’s operations and customer experience:
+
+1. **Optimize Driver Distribution:**  
+   Allocate more drivers to high-demand areas such as Midtown and the top pickup zones during peak hours to minimize wait times and cancellations.
+
+2. **Dynamic Pricing Strategy:**  
+   Adjust pricing dynamically during weekends and high-demand seasons (summer months) to balance demand and maximize profitability.
+
+3. **Targeted Vehicle Expansion:**  
+   Encourage more sedan and SUV drivers to join the platform, as these vehicle types represent over two-thirds of all trips.
+
+4. **Demand Forecasting:**  
+   Use historical trends to forecast trip volumes and plan driver availability accordingly, especially during weekends and holidays.
+
+5. **Customer Incentives:**  
+   Introduce discounts or loyalty programs during off-peak hours and low-demand months (e.g., January) to maintain steady usage.
+
+These actions can help Uber enhance its service efficiency, rider satisfaction, and overall revenue performance.
+
+---
+
 ## Contact
 
 **Sulleiman Musah**  
@@ -123,9 +153,3 @@ Upwork: https://www.upwork.com/freelancers/~01ed793943adc106e7
 ## Acknowledgement
 Dataset sourced from Kaggle – Uber Trip Data.  
 Special thanks to the data community for providing access to real-world datasets that make practical learning possible.
-
----
-
-## Dashboard Preview
-
-<img width="1512" height="982" alt="dashboard" src="https://github.com/user-attachments/assets/83c9c1f0-7b90-45b0-ad82-f36ab812069b" />
